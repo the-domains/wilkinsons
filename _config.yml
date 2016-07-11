@@ -1,0 +1,14 @@
+layout_spectrum: 0.10296478774398565
+typography_spectrum: 0.32689630379900336
+color:
+  brandStrength: 0.8376904339529574
+  lightness: 0.40627018664963543
+  saturation: 0.19308042991906404
+  rhythmicContrast: 0.15411274670623243
+  brandColors:
+    - '#004358'
+    - '#1F8A70'
+    - '#BEDB39'
+    - '#FFE11A'
+    - '#FD7400'
+name: Wilkinsons
