@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Wilkinsons]]></title>
+        <description><![CDATA[Wilkinsons]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 12 Jul 2016 13:49:11 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bromley]]></title>
+            <description><![CDATA[<article><h1>Bromley</h1><h2>Opening hours</h2></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/f1f648e9-86bf-4d0f-aa34-5cb490edb055.jpg</link>
+            <guid isPermaLink="false">95ce33e4-f324-419f-9bdb-7d5645d0309f</guid>
+            <pubDate>Tue, 12 Jul 2016 13:49:10 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
