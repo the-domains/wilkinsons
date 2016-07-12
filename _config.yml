@@ -1,14 +1,26 @@
-layout_spectrum: 0.10296478774398565
-typography_spectrum: 0.32689630379900336
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.7043011
 color:
-  brandStrength: 0.8376904339529574
-  lightness: 0.40627018664963543
-  saturation: 0.19308042991906404
-  rhythmicContrast: 0.15411274670623243
+  saturation: 0.193080429919064
+  brandStrength: 0.8387097
+  lightness: 0.4062701866496354
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#004358'
+    - '#1F8A70'
+    - '#BEDB39'
+    - '#FFE11A'
+    - '#FD7400'
+  rhythmicContrast: 0.1541127467062324
+layout_spectrum: 0.4910394
 name: Wilkinsons
