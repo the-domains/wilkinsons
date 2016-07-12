@@ -2,10 +2,16 @@
     <channel>
         <title><![CDATA[Wilkinsons]]></title>
         <description><![CDATA[Wilkinsons]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/wilkinsons/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Jul 2016 13:39:58 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 12 Jul 2016 13:40:07 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/wilkinsons/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Wilkinsons Opticians]]></title>
+            <link>https://www.google.co.uk/maps/place/Wilkinsons+Opticians/@51.4007786,0.0143702,17z/data=!3m1!4b1!4m5!3m4!1s0x47d8aa6f3891d0a5:0xe7755d76c25c9813!8m2!3d51.4007786!4d0.0165589?hl=en</link>
+            <guid isPermaLink="false">e767dcd7-f6e4-4dbe-9188-62c2114f6f40</guid>
+            <pubDate>Tue, 12 Jul 2016 13:39:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bromley]]></title>
             <description><![CDATA[<article><h1>Bromley</h1><h2>Opening hours</h2></article>]]></description>
