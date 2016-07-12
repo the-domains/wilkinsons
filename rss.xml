@@ -4,7 +4,7 @@
         <description><![CDATA[Wilkinsons]]></description>
         <link>https://thegrid.ai/wilkinsons/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Jul 2016 13:41:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2016 13:43:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/wilkinsons/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Bromley]]></title>
@@ -12,12 +12,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/f1f648e9-86bf-4d0f-aa34-5cb490edb055.jpg</link>
             <guid isPermaLink="false">95ce33e4-f324-419f-9bdb-7d5645d0309f</guid>
             <pubDate>Tue, 12 Jul 2016 13:41:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wilkinsons Opticians]]></title>
-            <link>https://www.google.co.uk/maps/place/Wilkinsons+Opticians/@51.4007786,0.0143702,17z/data=!3m1!4b1!4m5!3m4!1s0x47d8aa6f3891d0a5:0xe7755d76c25c9813!8m2!3d51.4007786!4d0.0165589?hl=en</link>
-            <guid isPermaLink="false">e767dcd7-f6e4-4dbe-9188-62c2114f6f40</guid>
-            <pubDate>Tue, 12 Jul 2016 13:39:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
